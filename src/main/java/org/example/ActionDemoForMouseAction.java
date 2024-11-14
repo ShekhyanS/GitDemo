@@ -20,6 +20,7 @@ public class ActionDemoForMouseAction {
         Thread.sleep(3000);
 
         //new thing to be removed
+        //second thing to remove
 
 
 
