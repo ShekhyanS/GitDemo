@@ -19,9 +19,6 @@ public class ActionDemoForMouseAction {
         move.moveToElement(driver.findElement(By.id("nav-link-accountList"))).contextClick().build().perform();
         Thread.sleep(3000);
 
-        //new thing to be removed
-        //second thing to remove
-// develop branch change
 
 
     }
