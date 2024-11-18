@@ -22,9 +22,5 @@ public class BrowserAlertHandlingDemo {
         Assert.assertEquals(driver.switchTo().alert().getText(), "Hello , Are you sure you want to confirm?");
         driver.switchTo().alert().dismiss();
 
-
-
-
-
     }
 }
